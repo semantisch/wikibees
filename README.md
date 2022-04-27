@@ -12,6 +12,14 @@ There are multiple bots powering WikiApiary.
 
 General information on versions and extensions being used are pulled and recorded directly into wiki pages in WikiApiary.
 
-### (No Name)
+### Audit Bee
 
-Bot that handles email notifications.
+[Audit Bee](http://wikiapiary.com/wiki/User:Audit_Bee) serves a special purpose to prune things on WikiApiary and keep services healthy. The bot's tasks include making websites inactive (see Property:Is active) if they have not had any edits in 12 weeks.
+
+### Welcome Bee
+
+[Welcome Bee](http://wikiapiary.com/wiki/User:Welcome_Bee) welcomes new users.
+
+### Notify Bee
+
+[Notify Bee](http://wikiapiary.com/wiki/User:Notify_Bee) sends notifications to people that have requested them.
